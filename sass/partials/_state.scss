@@ -1,0 +1,17 @@
+a:hover {
+	color: yellow;
+}
+
+button:hover {
+	background-color: yellow;
+}
+
+input:hover {
+	background-color: #c1c1c1;
+}
+
+.rotated {
+	transition-property: transform;
+  transition-duration: 1s;
+	-webkit-transform: rotate(360deg);
+}
